@@ -1,0 +1,12 @@
+Com o objetivo de analisar a produção de uma empresa, foram coletados dados referentes aos últimos treze meses de uma linha de produção dividida em duas etapas, na qual uma depende da outra. 
+A análise foi realizada utilizando técnicas estatísticas e gráficas para identificar tendências e padrões na produção.
+Inicialmente, foi realizado um estudo dos dados brutos, que incluíam informações sobre a quantidade de produtos produzidos em cada mês, 
+bem como a produtividade média de cada mês
+Os dados estão dispostos em dashboards para facilitar a análise.
+
+Ao analisar os dados, foi possível observar que a produção apresentou os menores números nos meses de junho, julho e agosto. Essa questão se dar por ser um produto sazonal, ou seja, possui as menores expedições no período de inverno.
+Desta forma, tal período pode ser aproveitado para realizar possíveis manutenções na linha de produção, a fim de prepará-la para os períodos de maiores vendas.
+
+Além disso, foi identificado que a produtividade também foi caindo com o tempo, o que resulta num gasto maior para empresa, como gasto com horas extras e energia.
+
+Desde modo é necessário investir em técnicas para aumentar a produtividade da empresa, com o intuito de reduzir custos e aumentar a eficiência da linha de produção.
